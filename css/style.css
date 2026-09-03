@@ -197,13 +197,12 @@ em {
 }
 
 .hero-copy p {
-  max-width: 650px;
+  max-width: 650px
 }
 
 .hero-points {
   padding-left: 20px;
-  line-height: 2;
-  margin: 20px 0 32px;
+  line-height: 2
 }
 
 .hero-actions {
