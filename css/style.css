@@ -173,7 +173,7 @@ em {
 }
 
 .home-hero {
-  min-height: 730px;
+  min-height: 800px;
   position: relative;
   display: flex;
   align-items: center;
@@ -197,12 +197,13 @@ em {
 }
 
 .hero-copy p {
-  max-width: 650px
+  max-width: 650px;
 }
 
 .hero-points {
   padding-left: 20px;
-  line-height: 2
+  line-height: 2;
+  margin: 20px 0 32px;
 }
 
 .hero-actions {
